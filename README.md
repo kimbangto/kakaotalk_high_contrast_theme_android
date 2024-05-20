@@ -29,7 +29,7 @@
 폰트는 Aa평양산스~~(저는 평양과 아무런 관련이 없습니다)~~ 사용중입니다.
 아쉽게도 아직 IOS 테마는 만들지 못했습니다...🥹 더 노력하도록 하겠습니다.
 
-[**⭐여기서 다운로드 받으실 수 있습니다. 클릭 시 구글드라이브 링크로 이동합니다.⭐**](https://drive.google.com/file/d/1HeK1KrYnBI6mCMhoyfkyvXcxCU8F6qF8/view?usp=sharing)
+release/kakaotalk_high_contrast_theme-release.apk 파일을 받아 설치해주시면 됩니다.
 
 # 설치 시 오류가 난다면?
 
