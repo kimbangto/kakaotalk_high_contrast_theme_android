@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionButtonBorderColor">#24000000</color>
+    <color name="actionButtonPressedColor">#F6F6F6</color>
+    <color name="ic_launcher_background">#1A1A1A</color>
+    <color name="statusBarColor">#FFDEDE</color>
+    <color name="theme_background_color">#1a1a1a</color>
+    <color name="theme_body_cell_border_color">#151515</color>
+    <color name="theme_body_cell_color">#1a1a1a</color>
+    <color name="theme_body_cell_pressed_color">#151515</color>
+    <color name="theme_body_secondary_cell_color">#1a1a1a</color>
+    <color name="theme_chatroom_background_color">#212121</color>
+    <color name="theme_chatroom_bubble_me_color">#639df8</color>
+    <color name="theme_chatroom_bubble_you_color">#cbe67a</color>
+    <color name="theme_chatroom_input_bar_background_color">#212121</color>
+    <color name="theme_chatroom_input_bar_color">#95dbed</color>
+    <color name="theme_chatroom_input_bar_menu_icon_color">#95dbed</color>
+    <color name="theme_chatroom_input_bar_send_button_color">#212121</color>
+    <color name="theme_chatroom_input_bar_send_icon_color">#95dbed</color>
+    <color name="theme_chatroom_unread_count_color">#95dbed</color>
+    <color name="theme_description_color">#f3feff</color>
+    <color name="theme_description_pressed_color">#99c9c4</color>
+    <color name="theme_direct_share_background_color">#1a1a1a</color>
+    <color name="theme_direct_share_button_color">#f3feff</color>
+    <color name="theme_direct_share_color">#f3feff</color>
+    <color name="theme_feature_browse_tab_color">#1a1a1a</color>
+    <color name="theme_feature_browse_tab_focused_color">#151515</color>
+    <color name="theme_feature_primary_color">#f3feff</color>
+    <color name="theme_feature_primary_pressed_color">#99c9c4</color>
+    <color name="theme_header_cell_color">#1a1a1a</color>
+    <color name="theme_header_color">#f3feff</color>
+    <color name="theme_maintab_cell_color">#1a1a1a</color>
+    <color name="theme_notification_background_color">#1a1a1a</color>
+    <color name="theme_notification_background_pressed_color">#151515</color>
+    <color name="theme_notification_color">#f3feff</color>
+    <color name="theme_paragraph_color">#f3feff</color>
+    <color name="theme_paragraph_pressed_color">#99c9c4</color>
+    <color name="theme_passcode_background_color">#212121</color>
+    <color name="theme_passcode_color">#f3feff</color>
+    <color name="theme_passcode_keypad_background_color">#1a1a1a</color>
+    <color name="theme_passcode_keypad_color">#f3feff</color>
+    <color name="theme_passcode_keypad_pressed_background_color">#151515</color>
+    <color name="theme_passcode_keypad_pressed_color">#99c9c4</color>
+    <color name="theme_passcode_pattern_line_color">#99c9c4</color>
+    <color name="theme_section_title_color">#f3feff</color>
+    <color name="theme_tab_bannerbadge_background_color">#151515</color>
+    <color name="theme_title_color">#f3feff</color>
+    <color name="theme_title_pressed_color">#99c9c4</color>
+    <string name="app_name">high_contrast_theme@bangto</string>
+    <string name="apply">Apply Now</string>
+    <string name="install_kakaotalk">Install KakaoTalk</string>
+    <string name="theme_title">high_contrast_theme@bangto</string>
+    <style name="noAnimTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kakao.talk.theme.apeach-mergeReleaseResources-3:/values-ko/values-ko.xml",
+            "map": [
+                {
+                    "source": "D:\\bangto\\coding\\kakaotalk_highcontrast_theme\\kakaotalk_high_contrast_theme\\src\\main\\theme\\values-ko\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "122,55",
+                        "endColumns": "63,66",
+                        "endOffsets": "181,117"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,215",
+                        "endColumns": "63,66",
+                        "endOffsets": "114,277"
+                    }
+                },
+                {
+                    "source": "D:\\bangto\\coding\\kakaotalk_highcontrast_theme\\kakaotalk_high_contrast_theme\\src\\main\\res\\values-ko\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,53",
+                        "endOffsets": "92,146"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "119,161",
+                        "endColumns": "41,53",
+                        "endOffsets": "156,210"
+                    }
+                }
+            ]
+        }
+    ]
+}

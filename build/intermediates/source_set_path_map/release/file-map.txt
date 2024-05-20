@@ -1,0 +1,10 @@
+com.kakao.talk.theme.apeach-pngs-0 D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\build\generated\res\pngs\release
+com.kakao.talk.theme.apeach-resValues-1 D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\build\generated\res\resValues\release
+com.kakao.talk.theme.apeach-rs-2 D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\build\generated\res\rs\release
+com.kakao.talk.theme.apeach-mergeReleaseResources-3 D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.kakao.talk.theme.apeach-mergeReleaseResources-4 D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.kakao.talk.theme.apeach-merged_res-5 D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\build\intermediates\merged_res\release
+com.kakao.talk.theme.apeach-main-6 D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\res
+com.kakao.talk.theme.apeach-main-7 D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\theme
+com.kakao.talk.theme.apeach-main-8 D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\theme-adv
+com.kakao.talk.theme.apeach-release-9 D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\release\res

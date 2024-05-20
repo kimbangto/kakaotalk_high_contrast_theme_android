@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\user\.gradle\caches\transforms-3\a2b6f1bd1593cc4b3f8a9791b7827bf2\transformed\viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+		INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.kakao.talk.v2.theme
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:6:5-63
+	android:name
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:6:22-60
+queries
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:8:5-10:15
+package#com.kakao.talk
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:9:9-50
+	android:name
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:9:18-47
+application
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:12:5-39:19
+	android:label
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:13:9-35
+meta-data#android.max_aspect
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:18:9-20:35
+	android:value
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:20:13-32
+	android:name
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:19:13-46
+activity#com.kakao.talk.theme.apeach.MainActivity
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:22:9-37:20
+	android:excludeFromRecents
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:24:13-46
+	android:launchMode
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:26:13-43
+	android:exported
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:31:27-74
+intent-filter#action:name:com.kakao.talk.theme.action.MAIN
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:33:13-35:29
+action#com.kakao.talk.theme.action.MAIN
+ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:34:17-75
+	android:name
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml:34:25-72
+uses-sdk
+INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\user\.gradle\caches\transforms-3\a2b6f1bd1593cc4b3f8a9791b7827bf2\transformed\viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\user\.gradle\caches\transforms-3\a2b6f1bd1593cc4b3f8a9791b7827bf2\transformed\viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+		INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+		ADDED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
+		INJECTED from D:\bangto\coding\kakaotalk_highcontrast_theme\kakaotalk_high_contrast_theme\src\main\AndroidManifest.xml
